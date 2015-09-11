@@ -3,9 +3,10 @@ This is your new Play application
 
 This file will be packaged with your application, when using `activator dist`.
 
+This seed template generates a new project using the sbt layout instead of the default Play layout.
+It's based on Typesafe's play-scala template.
 
 ## Default SBT layout
-
 
 ```
 build.sbt                  → Application build script
